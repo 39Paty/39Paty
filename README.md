@@ -3,6 +3,10 @@
 💻🌐 **Desenvolvedora FullStack**
 
 Me chamo Patricia Amorim, tenho 42 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no Colégio Estadual Professor Quirino (Mesquita, RJ). Tenho cursos de Programação pela Oracle Next Education com parceria com Alura . Atualmente, estou finalizando a graduação em Gestão da Tecnologia da Informação (conclusão em setembro de 2025) e iniciando o curso de Ciência da Computação e Computação em Nuvem.
+# Projetos
+
+### [Site ](#)
+Descrição breve do projeto, tecnologias utilizadas e principais funcionalidades.
 
 
 ### 🛠️ Tecnologias & Cursos
